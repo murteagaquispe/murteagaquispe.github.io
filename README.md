@@ -1,2 +1,4 @@
-# murteagaquispe.github.io
+# About
 Personal website
+# Work in progress
+# Publications
