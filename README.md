@@ -17,8 +17,7 @@ CV, Google Scholar
 “State-building in Latin America: Analyzing its Historical Foundations,”  _Política y Gobierno_, México, 24(2), pp. 435–457, 2017. Original in Spanish.  
   [Link to article](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1665-20372017000200435)
 
-“State Response by External Pressures: The Determinants of the State’s strengthening to face the Illegal Gold Mining Boom in Peru (2004–2015),”  
-  _Revista de Ciencia Política_, Santiago, 36(3), pp. 255–277, 2016 (with Eduardo Dargent). Original in Spanish.  
+“State Response by External Pressures: The Determinants of the State’s strengthening to face the Illegal Gold Mining Boom in Peru (2004–2015),” _Revista de Ciencia Política_, Santiago, 36(3), pp. 255–277, 2016 (with Eduardo Dargent). Original in Spanish.  
   [Link to article](https://scielo.conicyt.cl/scielo.php?script=sci_abstract&pid=S0718-090X2016000300003&lng=es&nrm=iso&tlng=en)
 
 # Book Chapters
