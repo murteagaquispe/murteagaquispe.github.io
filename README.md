@@ -1,3 +1,8 @@
+---
+title: Home
+layout: default
+---
+
 # About
 I earned a PhD in Political Science from Harvard University in 2025. Starting this fall, I will be a postdoctoral fellow at the Kellogg Institute for International Studies at the University of Notre Dame. My research examines the political economy of development strategies with a focus on agricultural policies in Latin America. I also study rural mobilization and state building.
 
