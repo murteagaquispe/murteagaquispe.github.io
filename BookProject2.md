@@ -1,3 +1,7 @@
+---
+title: Book Project
+layout: default
+---
 
 # Book Project: Agrarian Developmentalism
 
