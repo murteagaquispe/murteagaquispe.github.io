@@ -12,7 +12,7 @@ I earned a PhD in Political Science from Harvard University in 2025. Starting th
 “Agrarian Developmentalism: The Politics of Development Strategies in Latin America,” Job Market Paper.
 - Awarded best Graduate Student Paper by Latin American Political Economy Network REPAL.
 
-“Judging Property: Judicial Independence, Elite Influence, and Public Land Allocation in Colombia,” with Isabel Güiza-Gómez.
+“Judging Property: Judicial Independence, Elite Influence, and Public Land Allocation in Colombia,” with [Isabel Güiza-Gómez](https://isabelguizag.com/).
 
 # Articles
 “Expanding the State: Rural Mobilization and Bureaucratic Presence in Peru” (with Christopher Carter), forthcoming at _Comparative Political Studies_. 
