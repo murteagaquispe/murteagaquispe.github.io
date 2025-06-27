@@ -1,4 +1,21 @@
 title: Madai Urteaga
-#logo for pic
-#description text below image
-theme: jekyll-theme-minimal
+description: # Add your description here
+logo: /assets/img/your-photo.jpg
+
+theme: minimal-mistakes-jekyll
+markdown: kramdown
+
+# Enable navigation
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
+# Navigation menu
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Book Project"
+    url: /bookproject2/
