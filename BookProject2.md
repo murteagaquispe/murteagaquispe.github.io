@@ -1,10 +1,5 @@
 
----
-title: "Book Project"
-permalink: /bookproject/
----
-
-# Book Project
+# Agrarian Developmentalism
 
 The conventional wisdom holds that governments extract from agriculture to promote industrialization. However, development strategies are not uniform. While some governments did extract from agriculture, others actively supported the sector in what I call agrarian developmentalism. Why do some governments support agriculture while others extract from the sector during industrialization?
 
