@@ -22,7 +22,7 @@ author_profile: true
 
 [“The Power of the Seed: Timing, Quick Structural Change, and Genetically Modified Crop Regulations in the Andes”](https://www.ingentaconnect.com/content/cuny/cp/2019/00000051/00000004/art00004) (with Eduardo Dargent), _Comparative Politics_, 51(4), pp. 539–561, 2019.  
 
-[“State-building in Latin America: Analyzing its Historical Foundations,”](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1665-20372017000200435), _Política y Gobierno_, México, 24(2), pp. 435–457, 2017. Original in Spanish.  
+[“State-building in Latin America: Analyzing its Historical Foundations,”](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1665-20372017000200435) _Política y Gobierno_, México, 24(2), pp. 435–457, 2017. Original in Spanish.  
 
 [“State Response by External Pressures: The Determinants of the State’s strengthening to face the Illegal Gold Mining Boom in Peru (2004–2015)”](https://scielo.conicyt.cl/scielo.php?script=sci_abstract&pid=S0718-090X2016000300003&lng=es&nrm=iso&tlng=en) (with Eduardo Dargent), _Revista de Ciencia Política_, Santiago, 36(3), pp. 255–277, 2016. Original in Spanish.  
 
