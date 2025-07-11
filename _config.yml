@@ -1,26 +1,2 @@
 title: Madai Urteaga
-description: # Add your description here
-logo: /assets/img/IMG_4764ed.jpg
-
-remote_theme: minimal-mistakes-jekyll
-
-plugins:
- - jekyll-include-cache
- - jekyll-remote-theme
-
-markdown: kramdown
-
-# Enable navigation
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-
-# Navigation menu
-navigation:
-  - title: "Home"
-    url: /
-  - title: "Book Project"
-    url: /BookProject2/
+theme: jekyll-theme-cayman
