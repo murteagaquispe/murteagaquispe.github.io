@@ -1,11 +1,5 @@
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+title: Madai Urteaga
+description: # Add your description here
+logo: /assets/img/your-photo.jpg
+remote_theme: minimal-mistakes-jekyll
 markdown: kramdown
-plugins:
-  - jekyll-include-cache
-
-logo: /assets/img/IMG_4764ed.jpg
-
-name: Madai Urteaga
-title: Postdoctoral Fellow, University of Notre Dame
-description: >
-  I study the political economy of agricultural policy, state building, and rural mobilization in Latin America.
