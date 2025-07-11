@@ -1,8 +1,7 @@
 ---
 title: "Home"
-layout: single
+layout: default
 permalink: /
-author_profile: true
 ---
 
 # About
