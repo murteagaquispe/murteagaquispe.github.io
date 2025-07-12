@@ -15,15 +15,16 @@ layout: default
   <img src="assets/img/IMG_4764ed.jpg" alt="Madai Urteaga headshot" width="180" style="border-radius: 8px;" />
 
   <div>
-    <p>I hold a PhD in Political Science from Harvard University. Starting in the the Fall 2025, I will be a post-doctoral fellow at the Kellogg Institute for International Studies.</p> 
-    
-    <p>My research examines the political economy of development strategies in Latin America. In my dissertation, I explain why governments adopt pro-agricultural development strategies--or what I call <em>agrarian developmentalism</em>--while industrializing. I also study how rural mobilization shapes state building.</p>
-    <br><br>
-    <a href="https://www.dropbox.com/scl/fi/ku1iwtv2ouob4ptab9xix/main.pdf?rlkey=vi5fjI8g0w55oezc21fscveyb&dl=0" target="_blank">CV</a> •
-    <a href="https://scholar.google.com/citations?user=yd1nJHIAAAAJ&hl=en&authuser=1" target="_blank">Google Scholar</a>
+    <p>I hold a PhD in Political Science from Harvard University. Starting in the Fall 2025, I will be a postdoctoral fellow at the Kellogg Institute for International Studies.</p>
+
+    <p>My research examines the political economy of development strategies in Latin America. In my dissertation, I explain why governments adopt pro-agricultural development strategies—or what I call <em>agrarian developmentalism</em>. I also study how rural mobilization shapes state building.</p>
+
+    <p>
+      <a href="https://www.dropbox.com/scl/fi/kul1wtv2ouob4ptab9xix/main.pdf?rlkey=vi5fjI8g0w55oezc21fscveyb&dl=0" target="_blank">CV</a> • 
+      <a href="https://scholar.google.com/citations?user=yd1nJHIAAAAJ&hl=en&authuser=1" target="_blank">Google Scholar</a>
+    </p>
   </div>
 </div>
-
 
 ## Work in Progress
 “Agrarian Developmentalism: The Politics of Development Strategies in Latin America” (Job Market Paper)  
