@@ -23,7 +23,6 @@ layout: default
 
 </div>
 
----
 [CV](https://www.dropbox.com/scl/fi/ku1iwtv2ouob4ptab9xix/main.pdf?rlkey=vi5fjl8g0w55oezc21fscveyb&dl=0) [Google Scholar](https://scholar.google.com/citations?user=yd1nJHIAAAAJ&hl=en&authuser=1)
 
 ## Work in Progress
