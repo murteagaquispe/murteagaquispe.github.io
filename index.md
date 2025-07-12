@@ -16,6 +16,7 @@ layout: default
 
   <div>
     I hold a PhD in Political Science from Harvard University. Starting in the the Fall 2025, I will be a post-doctoral fellow at the Kellogg Institute for International Studies. 
+    
     My research examines the political economy of development strategies in Latin America. In my dissertation, I explain why governments adopt pro-agricultural development strategies-or what I call agrarian developmentalism-while
     industrializing. My research also examines how rural mobilization shapes state building.
     <br><br>
