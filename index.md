@@ -15,8 +15,8 @@ layout: default
   <img src="assets/img/IMG_4764ed.jpg" alt="Madai Urteaga headshot" width="180" style="border-radius: 8px;" />
 
   <div>
-    I hold a PhD in Political Science from Harvard University. Starting in the the Fall 2025, I will be a post-doctoral fellow at the Kellogg Institute for International Studies. My research examines the political economy of development strategies in Latin America. In my dissertation, I explain why governments adopt pro-agricultural development strategies-or what I call agrarian developmentalism-while
-    industrializing. I als study how rural mobilization shapes state building.
+    I hold a PhD in Political Science from Harvard University. Starting in the the Fall 2025, I will be a post-doctoral fellow at the Kellogg Institute for International Studies. My research examines the political economy of development strategies in Latin America. In my dissertation, I explain why governments adopt pro-agricultural development strategies-or what I call _agrarian developmentalism_-while
+    industrializing. I also study how rural mobilization shapes state building.
     <br><br>
     <a href="https://www.dropbox.com/scl/fi/ku1iwtv2ouob4ptab9xix/main.pdf?rlkey=vi5fjI8g0w55oezc21fscveyb&dl=0" target="_blank">CV</a> •
     <a href="https://scholar.google.com/citations?user=yd1nJHIAAAAJ&hl=en&authuser=1" target="_blank">Google Scholar</a>
