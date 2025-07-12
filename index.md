@@ -4,7 +4,6 @@ layout: default
 ---
 
 <nav style="text-align:center; margin-top: 20px;">
-  <a href="/" style="margin: 0 15px;">About</a>
   <a href="/bookproject/" style="margin: 0 15px;">Book Project</a>
   <a href="/teaching/" style="margin: 0 15px;">Teaching</a>
 </nav>
