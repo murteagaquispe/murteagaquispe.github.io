@@ -3,6 +3,13 @@ title: "Home"
 layout: default
 ---
 
+<nav style="text-align:center; margin-top: 20px;">
+  <a href="/" style="margin: 0 15px;">About</a>
+  <a href="/research.html" style="margin: 0 15px;">Book Project</a>
+  <a href="/teaching.html" style="margin: 0 15px;">Teaching</a>
+</nav>
+
+
 ## About
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
