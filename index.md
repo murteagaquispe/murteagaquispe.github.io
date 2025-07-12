@@ -3,7 +3,9 @@ title: "Madai Urteaga Quispe"
 layout: default
 ---
 
-[Book Project](./bookproject.html) · [Teaching](./teaching.html) · [CV](https://www.dropbox.com/scl/fi/kul1wtv2ouob4ptab9xix/main.pdf?rlkey=vi5fjI8g0w55oezc21fscveyb&dl=0)
+<div style="text-align: center;">
+  [Book Project](./bookproject.html) · [Teaching](./teaching.html) · [CV](https://www.dropbox.com/scl/fi/ku1iwtv2ouob4ptab9xix/main.pdf?rlkey=vi5fjl8g0w55oezc21fscveyb&st=qp2onj9a&dl=0)
+</div>
 
 ## About
 <div style="display: flex; align-items: flex-start; gap: 20px;">
