@@ -1,6 +1,6 @@
 ---
 title: "Book Project"
-layout: default
+layout: single
 permalink: /bookproject/
 ---
 
