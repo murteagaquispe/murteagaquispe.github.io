@@ -10,7 +10,7 @@ layout: default
 <div style="text-align: center;">
   <a href="./bookproject.html">Book Project</a> · 
   <a href="./teaching.html">Teaching</a> · 
-  <a href="https://www.dropbox.com/s/your-cv-link">CV</a>
+  <a href="https://www.dropbox.com/scl/fi/ku1iwtv2ouob4ptab9xix/main.pdf?rlkey=vi5fjl8g0w55oezc21fscveyb&st=qp2onj9a&dl=0">CV</a>
 </div>
 
 
