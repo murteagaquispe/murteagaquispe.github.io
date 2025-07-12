@@ -1,6 +1,7 @@
 ---
 title: "Madai Urteaga Quispe"
 layout: default
+show_downloads: false
 ---
 
 <div style="text-align: center;">
