@@ -1,7 +1,11 @@
 ---
-title: "Teaching"
-layout: single
-permalink: /teaching/
+layout: default
+title: Another page
+description: This is just another page
 ---
 
-Hello
+## Welcome to another page
+
+_yay_
+
+[back](./)
