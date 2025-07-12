@@ -19,7 +19,7 @@ layout: default
   <div>
     I earned a PhD in Political Science from Harvard University in 2025. Starting this fall, I will be a postdoctoral fellow at the Kellogg Institute for International Studies at the University of Notre Dame. My research examines the political economy of development strategies with a focus on agricultural policies in Latin America. I also study rural mobilization and state building.  
     <br><br>
-    [CV](https://www.dropbox.com/scl/fi/ku1iwtv2ouob4ptab9xix/main.pdf?rlkey=vi5fjl8g0w55oezc21fscveyb&dl=0) • [Google Scholar](https://scholar.google.com/citations?user=yd1nJHIAAAAJ&hl=en&authuser=1)
+    [CV](https://www.dropbox.com/scl/fi/ku1iwtv2ouob4ptab9xix/main.pdf?rlkey=vi5fjl8g0w55oezc21fscveyb&dl=0) [Google Scholar](https://scholar.google.com/citations?user=yd1nJHIAAAAJ&hl=en&authuser=1)
   </div>
 
 </div>
