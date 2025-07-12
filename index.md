@@ -29,7 +29,7 @@ layout: default
 ## Work in Progress
 
 - “Agrarian Developmentalism: The Politics of Development Strategies in Latin America” (Job Market Paper)  
-  _Awarded best Graduate Student Paper by Latin American Political Economy Network REPAL_
+  - Awarded best Graduate Student Paper by Latin American Political Economy Network REPAL
 
 - “Judging Property: Judicial Independence, Elite Influence, and Public Land Allocation in Colombia”  
   With [Isabel Güiza-Gómez](https://isabelguizag.com/)
@@ -39,7 +39,7 @@ layout: default
 ## Articles
 
 - [“Expanding the State: Rural Mobilization and Bureaucratic Presence in Peru”](https://journals.sagepub.com/doi/abs/10.1177/00104140251349660) (with Christopher Carter), _Comparative Political Studies_, 2025  
-  _Honorable Mention for Sage Prize, APSA Comparative Politics Section_
+  - Honorable Mention for Sage Prize, APSA Comparative Politics Section
 
 - [“The Power of the Seed: Timing, Quick Structural Change, and Genetically Modified Crop Regulations in the Andes”](https://www.ingentaconnect.com/content/cuny/cp/2019/00000051/00000004/art00004) (with Eduardo Dargent), _Comparative Politics_, 51(4), 2019
 
