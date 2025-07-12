@@ -5,7 +5,7 @@ layout: default
 
 <nav style="text-align:center; margin-top: 20px;">
   <a href="/test-site/bookproject/" style="margin: 0 15px;">Book Project</a>
-  <a href=/test-site/teaching/" style="margin: 0 15px;">Teaching</a>
+  <a href="/test-site/teaching/" style="margin: 0 15px;">Teaching</a>
 </nav>
 
 
