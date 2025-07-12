@@ -11,19 +11,17 @@ layout: default
 
 
 ## About
-
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-
   <img src="assets/img/IMG_4764ed.jpg" alt="Madai Urteaga headshot" width="180" style="border-radius: 8px;" />
 
   <div>
-    I earned a PhD in Political Science from Harvard University in 2025. Starting this fall, I will be a postdoctoral fellow at the Kellogg Institute for International Studies at the University of Notre Dame. My research examines the political economy of development strategies with a focus on agricultural policies in Latin America. I also study rural mobilization and state building.  
+    I earned a PhD in Political Science from Harvard University in 2025. Starting this fall, I will be a postdoctoral fellow at the Kellogg Institute for International Studies at the University of Notre Dame. My research examines the political economy of development strategies with a focus on agricultural policies in Latin America. I also study rural mobilization and state building.
     <br><br>
+    <a href="https://www.dropbox.com/scl/fi/ku1iwtv2ouob4ptab9xix/main.pdf?rlkey=vi5fjI8g0w55oezc21fscveyb&dl=0" target="_blank">CV</a> •
+    <a href="https://scholar.google.com/citations?user=yd1nJHIAAAAJ&hl=en&authuser=1" target="_blank">Google Scholar</a>
   </div>
-
 </div>
 
-[CV](https://www.dropbox.com/scl/fi/ku1iwtv2ouob4ptab9xix/main.pdf?rlkey=vi5fjl8g0w55oezc21fscveyb&dl=0) [Google Scholar](https://scholar.google.com/citations?user=yd1nJHIAAAAJ&hl=en&authuser=1)
 
 ## Work in Progress
 “Agrarian Developmentalism: The Politics of Development Strategies in Latin America” (Job Market Paper)  
