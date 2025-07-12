@@ -1,10 +1,9 @@
 ---
-title: "Book Project"
-layout: single
-permalink: /bookproject/
+layout: default
+title: Book Project
 ---
 
-# Agrarian Developmentalism
+## Agrarian Developmentalism
 
 The conventional wisdom holds that governments extract from agriculture to promote industrialization. However, development strategies are not uniform. While some governments did extract from agriculture, others actively supported the sector in what I call agrarian developmentalism. Why do some governments support agriculture while others extract from the sector during industrialization?
 
@@ -13,3 +12,5 @@ I argue that this variation is explained by the structure of the party system an
 I develop the argument through a comparative historical analysis of two countries with divergent development strategies crafted during World War II: Colombia and Chile. In Colombia, the government supported agriculture generously through price support, tariff protection, and public spending. By contrast, the Chilean government sidelined agriculture to promote industrialization. Drawing on original data collected over twelve months of fieldwork from a range of historical sources, I show how variation in the type of party system and rural producers’ legislative strength shaped agricultural policy. I also demonstrate that alternative approaches focusing on the structural or instrumental power of rural producers have limited leverage to explain whether development strategies favor agriculture.
 
 The main contribution of this study is to show that patterns of political representation through the party system matter for economic policy outcomes. Against the literature portraying landowners as very powerful actors, my findings reveal that they were mainly reacting to rather than shaping economic policy. Second, I offer a new perspective on Latin American party systems. Parties in integrative party systems are often dismissed as “catch-all” clientelistic machines that lack programmatic commitments. I demonstrate that these parties do have programmatic agendas that influence how politicians govern and how development strategies unfold. Third, my work joins recent scholarship that challenges the alignment between landowners and authoritarianism. I show that independent legislatures provide landowners with a unique institutional arena to constrain extraction, an arena absent under authoritarian regimes. Thus, I argue, democracies with broad-based coalitional parties are conducive to a pro-agricultural development strategy. 
+
+[back](./)
