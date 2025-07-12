@@ -21,10 +21,10 @@ layout: default
 
 ## Work in Progress
 
-- **“Agrarian Developmentalism: The Politics of Development Strategies in Latin America”** (Job Market Paper)  
+- “Agrarian Developmentalism: The Politics of Development Strategies in Latin America” (Job Market Paper)  
   _Awarded best Graduate Student Paper by Latin American Political Economy Network REPAL_
 
-- **“Judging Property: Judicial Independence, Elite Influence, and Public Land Allocation in Colombia”**  
+- “Judging Property: Judicial Independence, Elite Influence, and Public Land Allocation in Colombia”  
   With [Isabel Güiza-Gómez](https://isabelguizag.com/)
 
 ---
