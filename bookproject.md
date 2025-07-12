@@ -1,8 +1,7 @@
 ---
 title: "Book Project"
-layout: single
+layout: default
 permalink: /bookproject/
-author_profile: false
 ---
 
 # Agrarian Developmentalism
