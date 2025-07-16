@@ -4,14 +4,14 @@ title: Teaching
 description: This is just another page
 ---
 
-## Teaching Fellow
+## Courses in Comparative Politics
 
-- Introduction to Comparative Politics (Harvard)
+- Introduction to Comparative Politics (Teaching Fellow, Harvard)
 
-- Comparative Politics of Latin America (Harvard)
+- Comparative Politics of Latin America (Teaching Fellow, Harvard)
 
-- Authoritarianism (Harvard)
+- Authoritarianism (Teaching Fellow, Harvard)
 
-- State Building (Pontificia Universidad Católica del Perú)
+- State Building (Teaching Fellow, Pontificia Universidad Católica del Perú)
 
-[back](./)
+[Back](./)
