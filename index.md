@@ -6,16 +6,6 @@ show_downloads: false
 <!-- Load Font Awesome -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
-<div style="margin-top: 20px;">
-  <ul style="list-style: none; padding-left: 0;">
-    <li><i class="fas fa-university"></i> <a href="https://www.harvard.edu/">Harvard University</a></li>
-    <li><i class="fas fa-envelope"></i> <a href="mailto:your@email.com">Email</a></li>
-    <li><i class="fas fa-flask"></i> <a href="https://scholar.google.com/">Google Scholar</a></li>
-    <li><i class="fab fa-orcid"></i> <a href="https://orcid.org/0000-0000-0000-0000">ORCID</a></li>
-    <li><i class="fab fa-x-twitter"></i> <a href="https://twitter.com/yourhandle">X (formerly Twitter)</a></li>
-  </ul>
-</div>
-
 <div style="text-align: center;">
   <a href="./bookproject.html">Book Project</a> · 
   <a href="./teaching.html">Teaching</a> · 
@@ -30,7 +20,11 @@ show_downloads: false
   <div>
     I hold a PhD in Political Science from Harvard University. Starting in the Fall 2025, I will be a postdoctoral fellow at the Kellogg Institute for International Studies. My research examines the political economy of development strategies in Latin America. In my dissertation, I explain why governments adopt pro-agricultural development strategies—or what I call <em>agrarian developmentalism</em>. I also study how rural mobilization shapes state building.
     <br><br>
-      <a href="https://scholar.google.com/citations?user=yd1nJHIAAAAJ&hl=en&authuser=1" target="_blank">Google Scholar</a>
+    <ul style="list-style: none; padding-left: 0;">
+      <li><i class="fas fa-envelope"></i> <a href="mailto:murteaga@nd.edu">Email</a></li>  
+      <li><i class="fas fa-flask"></i> <a href="https://scholar.google.com/citations?user=yd1nJHIAAAAJ&hl=en&authuser=1">Google Scholar</a></li>
+      <li><i class="fab fa-orcid"></i> <a href="https://orcid.org/0009-0006-0990-9001">ORCID</a></li>
+    </ul>
   </div>
 </div>
 
