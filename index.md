@@ -6,12 +6,6 @@ show_downloads: true
 <!-- Load Font Awesome -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
-<div style="text-align: center;">
-  <a href="./bookproject.html">Book Project</a> · 
-  <a href="./teaching.html">Teaching</a> · 
-  <a href="https://www.dropbox.com/scl/fi/ku1iwtv2ouob4ptab9xix/main.pdf?rlkey=vi5fjl8g0w55oezc21fscveyb&st=dm7pajl5&dl=0">CV</a>
-</div>
-
 ## About
 <div style="display: flex; padding-left: 0; display: flex; gap: 20px; margin-top: 10px;">
   <img src="assets/img/IMG_4764ed.jpg" alt="Madai Urteaga headshot" width="180" style="border-radius: 50%;" />
