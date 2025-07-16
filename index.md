@@ -1,6 +1,6 @@
 ---
 title: "Madai Urteaga-Quispe"
-layout: default
+layout: custom
 show_downloads: false
 ---
 <!-- Load Font Awesome -->
