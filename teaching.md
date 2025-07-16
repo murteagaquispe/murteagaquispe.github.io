@@ -2,7 +2,6 @@
 layout: custom
 title: Teaching
 ---
-[Back](./)
 
 ## Courses in Comparative Politics
 
