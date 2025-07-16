@@ -2,6 +2,7 @@
 layout: default
 title: Teaching
 ---
+[Back](./)
 
 ## Courses in Comparative Politics
 
@@ -12,5 +13,3 @@ title: Teaching
 - Authoritarianism (Teaching Fellow, Harvard)
 
 - State Building (Teaching Fellow, Pontificia Universidad Católica del Perú)
-
-[Back](./)
