@@ -1,1 +1,32 @@
+---
+layout: null
+---
 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  </head>
+
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">{{ site.title }}</h1>
+
+      <!-- 🔧 Custom nav here -->
+      <nav style="margin-top: 10px;">
+        <a href="{{ "/" | relative_url }}">Home</a> · 
+        <a href="{{ "/bookproject.html" | relative_url }}">Book Project</a> · 
+        <a href="{{ "/teaching.html" | relative_url }}">Teaching</a> · 
+        <a href="https://www.dropbox.com/...">CV</a>
+      </nav>
+    </section>
+
+    <section class="main-content">
+      {{ content }}
+    </section>
+  </body>
+</html>
