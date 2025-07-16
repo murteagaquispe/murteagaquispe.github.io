@@ -1,7 +1,7 @@
 ---
 title: "Madai Urteaga-Quispe"
 layout: custom
-show_downloads: false
+show_downloads: true
 ---
 <!-- Load Font Awesome -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
