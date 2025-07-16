@@ -2,6 +2,7 @@
 layout: default
 title: Agrarian Developmentalism
 ---
+[Back](./)
 
 The conventional wisdom holds that governments extract from agriculture to promote industrialization. However, development strategies are not uniform. While some governments did extract from agriculture, others actively supported the sector in what I call agrarian developmentalism. Why do some governments support agriculture while others extract from the sector during industrialization?
 
@@ -20,6 +21,4 @@ The conventional wisdom holds that governments extract from agriculture to promo
     I develop the argument through a comparative historical analysis of two countries with divergent development strategies crafted during World War II: Colombia and Chile. In Colombia, the government supported agriculture generously through price support, tariff protection, and public spending. By contrast, the Chilean government sidelined agriculture to promote industrialization. Drawing on original data collected over twelve months of fieldwork from a range of historical sources, I show how the explanatory variables shaped agricultural policy regimes, and demonstrate that alternative approaches focusing on power of rural producers have limited leverage.
   </div>
 </div>
-
-[Back](./)
 
