@@ -20,24 +20,18 @@ show_downloads: false
   <div>
     I hold a PhD in Political Science from Harvard University. Starting in the Fall 2025, I will be a postdoctoral fellow at the Kellogg Institute for International Studies. My research examines the political economy of development strategies in Latin America. In my dissertation, I explain why governments adopt pro-agricultural development strategies—or what I call <em>agrarian developmentalism</em>. I also study how rural mobilization shapes state building.
     <br><br>
-    <ul style="list-style: none; padding-left: 0; display: flex; gap: 20px; margin-top: 10px;">
-      <li><i class="fas fa-envelope"></i> <a href="mailto:murteaga@nd.edu">Email</a></li>  
-      <li><i class="fas fa-flask"></i> <a href="https://scholar.google.com/citations?user=yd1nJHIAAAAJ&hl=en&authuser=1">Google Scholar</a></li>
-      <li><i class="fab fa-orcid"></i> <a href="https://orcid.org/0009-0006-0990-9001">ORCID</a></li>
-    </ul>
+    <div style="margin-top: 10px;">
+      <span style="margin-right: 20px;">
+        <i class="fas fa-envelope"></i> <a href="mailto:murteaga@nd.edu">Email</a>
+      </span>
+      <span style="margin-right: 20px;">
+        <i class="fas fa-flask"></i> <a href="https://scholar.google.com/citations?user=yd1nJHIAAAAJ&hl=en&authuser=1">Google Scholar</a>
+      </span>
+      <span>
+        <i class="fab fa-orcid"></i> <a href="https://orcid.org/0009-0006-0990-9001">ORCID</a>
+      </span>
+    </div>
   </div>
-</div>
-
-<div style="margin-top: 10px;">
-  <span style="margin-right: 20px;">
-    <i class="fas fa-envelope"></i> <a href="mailto:murteaga@nd.edu">Email</a>
-  </span>
-  <span style="margin-right: 20px;">
-    <i class="fas fa-flask"></i> <a href="https://scholar.google.com/citations?user=yd1nJHIAAAAJ&hl=en&authuser=1">Google Scholar</a>
-  </span>
-  <span>
-    <i class="fab fa-orcid"></i> <a href="https://orcid.org/0009-0006-0990-9001">ORCID</a>
-  </span>
 </div>
 
 ## Work in Progress
