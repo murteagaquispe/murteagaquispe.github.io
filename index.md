@@ -3,6 +3,18 @@ title: "Madai Urteaga Quispe"
 layout: default
 show_downloads: false
 ---
+<!-- Load Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<div style="margin-top: 20px;">
+  <ul style="list-style: none; padding-left: 0;">
+    <li><i class="fas fa-university"></i> <a href="https://www.harvard.edu/">Harvard University</a></li>
+    <li><i class="fas fa-envelope"></i> <a href="mailto:your@email.com">Email</a></li>
+    <li><i class="fas fa-flask"></i> <a href="https://scholar.google.com/">Google Scholar</a></li>
+    <li><i class="fab fa-orcid"></i> <a href="https://orcid.org/0000-0000-0000-0000">ORCID</a></li>
+    <li><i class="fab fa-x-twitter"></i> <a href="https://twitter.com/yourhandle">X (formerly Twitter)</a></li>
+  </ul>
+</div>
 
 <div style="text-align: center;">
   <a href="./bookproject.html">Book Project</a> · 
