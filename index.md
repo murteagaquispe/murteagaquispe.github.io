@@ -33,7 +33,7 @@ show_downloads: false
 
 ## Articles
 
-[“Expanding the State: Rural Mobilization and Bureaucratic Presence in Peru”](https://journals.sagepub.com/doi/abs/10.1177/00104140251349660) (with Christopher Carter), _Comparative Political Studies_, 2025.  
+[“Expanding the State: Rural Mobilization and Bureaucratic Presence in Peru”](https://journals.sagepub.com/doi/abs/10.1177/00104140251349660) (with [Christopher Carter](https://christopherleecarter.com/)), _Comparative Political Studies_, 2025.  
   - Honorable Mention for Sage Prize, APSA Comparative Politics Section
 
 [“The Power of the Seed: Timing, Quick Structural Change, and Genetically Modified Crop Regulations in the Andes”](https://www.ingentaconnect.com/content/cuny/cp/2019/00000051/00000004/art00004) (with Eduardo Dargent), _Comparative Politics_, 51(4), 2019.
