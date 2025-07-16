@@ -12,6 +12,11 @@ show_downloads: false
   <a href="https://www.dropbox.com/scl/fi/ku1iwtv2ouob4ptab9xix/main.pdf?rlkey=vi5fjl8g0w55oezc21fscveyb&st=dm7pajl5&dl=0">CV</a>
 </div>
 
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 1.5em;">
+  <a href="./bookproject.html" class="btn">Book Project</a>
+  <a href="./teaching.html" class="btn">Teaching</a>
+  <a href="https://www.dropbox.com/scl/fi/ku1iwtv2ouob4ptab9xix/main.pdf?rlkey=vi5fjl8g0w55oezc21fscveyb&st=dm7pajl5&dl=0" class="btn">CV</a>
+</div>
 
 ## About
 <div style="display: flex; padding-left: 0; display: flex; gap: 20px; margin-top: 10px;">
