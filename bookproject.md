@@ -15,7 +15,7 @@ The conventional wisdom holds that governments extract from agriculture to promo
 <br>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 20px;">
-  <img src="assets/img/for_my_book.png" alt="precios politicos" width="180" style="border-radius: 8px;" />
+  <img src="assets/img/for_my_book.png" alt="precios politicos" width="220" style="border-radius: 8px;" />
   <div>
     I develop the argument through a comparative historical analysis of two countries with divergent development strategies crafted during World War II: Colombia and Chile. In Colombia, the government supported agriculture generously through price support, tariff protection, and public spending. By contrast, the Chilean government sidelined agriculture to promote industrialization. Drawing on original data collected over twelve months of fieldwork from a range of historical sources, I show how variation in the type of party system and rural producers’ legislative strength shaped agricultural policy. I also demonstrate that alternative approaches focusing on the structural or instrumental power of rural producers have limited leverage to explain whether development strategies favor agriculture.
   </div>
