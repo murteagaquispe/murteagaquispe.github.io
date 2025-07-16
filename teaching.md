@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Teaching
-description: This is just another page
 ---
 
 ## Courses in Comparative Politics
