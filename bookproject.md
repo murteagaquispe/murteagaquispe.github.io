@@ -11,6 +11,8 @@ The conventional wisdom holds that governments extract from agriculture to promo
   </div>
 </div>
 
+<br>
+
 <div style="display: flex; align-items: center; gap: 40px;">
   <img src="assets/img/for_my_book.png" alt="precios politicos" width="220" style="border-radius: 8px;" />
   <div>
