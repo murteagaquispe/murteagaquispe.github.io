@@ -36,7 +36,7 @@ show_downloads: true
 
 ---
 
-## Articles
+## Publications
 
 [“Expanding the State: Rural Mobilization and Bureaucratic Presence in Peru”](https://journals.sagepub.com/doi/abs/10.1177/00104140251349660) (with [Christopher Carter](https://christopherleecarter.com/)), _Comparative Political Studies_, 2025.  
   - Honorable Mention for Sage Prize, APSA Comparative Politics Section
