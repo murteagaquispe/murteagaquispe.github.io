@@ -11,7 +11,7 @@ show_downloads: true
   <img src="assets/img/IMG_4764ed.jpg" alt="Madai Urteaga headshot" width="150" style="border-radius: 50%;" />
 
   <div>
-    I hold a PhD in Political Science from Harvard University. Starting in the Fall 2025, I will be a postdoctoral fellow at the Kellogg Institute for International Studies. My research examines the political economy of development strategies in Latin America. In my dissertation, I explain why governments adopt pro-agricultural development strategies—or what I call <em>agrarian developmentalism</em>. I also study how rural mobilization shapes state building.
+    I hold a PhD in Political Science from Harvard University. I am a postdoctoral fellow at the Kellogg Institute for International Studies. My research examines the political economy of development strategies in Latin America with a focus on agricultural policies and rural politics. In my book project, I explain why governments adopt pro-agricultural development strategies—or what I call <em>agrarian developmentalism</em>. 
     <br><br>
     <div style="margin-top: 10px;">
       <span style="margin-right: 20px;">
@@ -29,10 +29,11 @@ show_downloads: true
 
 ## Work in Progress
 “Agrarian Developmentalism: The Politics of Development Strategies in Latin America” (Job Market Paper)  
-  - Awarded best Graduate Student Paper by Latin American Political Economy Network REPAL
+  - Awarded Best Graduate Student Paper by the Latin American Political Economy Network REPAL
 
 “Judging Property: Judicial Independence, Elite Influence, and Public Land Allocation in Colombia”  
   With [Isabel Güiza-Gómez](https://isabelguizag.com/)
+  - Honorable Mention for Best Paper by the Latin American Political Economy Network REPAL.
 
 ---
 
