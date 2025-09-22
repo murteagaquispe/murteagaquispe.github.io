@@ -29,7 +29,7 @@ show_downloads: true
   </div>
 </div>
 
-## Work in Progress
+## Working Papers
 “Agrarian Developmentalism: The Politics of Development Strategies in Latin America.”
   - Awarded Best Graduate Student Paper by the Latin American Political Economy Network REPAL
 
