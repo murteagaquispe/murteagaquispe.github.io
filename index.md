@@ -13,7 +13,7 @@ show_downloads: true
        style="width: 200px; height: 200px; object-fit: cover;" />
 
   <div>
-    I hold a PhD in Political Science from Harvard University. I am a postdoctoral fellow at the Kellogg Institute for International Studies. My research examines the political economy of development strategies in Latin America with a focus on agricultural policies and rural politics. In my book project, I explain why governments adopt pro-agricultural development strategies—or what I call <em>agrarian developmentalism</em>. 
+    I hold a PhD in Political Science from Harvard University. Currently, I am a postdoctoral fellow at the Kellogg Institute for International Studies. My research examines the political economy of development strategies in Latin America with a focus on agricultural policies and rural politics. In my book project, I explain why governments adopt pro-agricultural development strategies—or what I call <em>agrarian developmentalism</em>. 
     <br><br>
     <div style="margin-top: 10px;">
       <span style="margin-right: 20px;">
@@ -31,10 +31,10 @@ show_downloads: true
 
 ## Working Papers
 “Agrarian Developmentalism: The Politics of Development Strategies in Latin America.”
-  - Awarded Best Graduate Student Paper by the Latin American Political Economy Network REPAL
+  - Awarded Best Graduate Student Paper by the Latin American Political Economy Network REPAL.
 
-“Judging Property: Judicial Independence, Elite Influence, and Public Land Allocation in Colombia.”  
-  With [Isabel Güiza-Gómez](https://isabelguizag.com/)
+“Judging Property: Judicial Independence, Elite Influence, and Public Land Allocation in Colombia,”  
+  with [Isabel Güiza-Gómez](https://isabelguizag.com/).
   - Honorable Mention for Best Paper by the Latin American Political Economy Network REPAL.
 
 ---
@@ -42,7 +42,7 @@ show_downloads: true
 ## Publications
 
 [“Expanding the State: Rural Mobilization and Bureaucratic Presence in Peru”](https://journals.sagepub.com/doi/abs/10.1177/00104140251349660) (with [Christopher Carter](https://christopherleecarter.com/)), _Comparative Political Studies_, 2025.  
-  - Honorable Mention for Sage Prize, APSA Comparative Politics Section
+  - Honorable Mention for Sage Prize, APSA Comparative Politics Section.
 
 [“The Power of the Seed: Timing, Quick Structural Change, and Genetically Modified Crop Regulations in the Andes”](https://www.ingentaconnect.com/content/cuny/cp/2019/00000051/00000004/art00004) (with Eduardo Dargent), _Comparative Politics_, 51(4), 2019.
 
