@@ -30,7 +30,7 @@ show_downloads: true
 </div>
 
 ## Working Papers
-“Agrarian Developmentalism: The Politics of Development Strategies in Latin America.”
+“Agrarian Developmentalism: The Politics of Development Strategies in Latin America,” under review.
   - Awarded Best Graduate Student Paper by the Latin American Political Economy Network REPAL.
 
 “Judging Property: Judicial Independence, Elite Influence, and Public Land Allocation in Colombia,”  
