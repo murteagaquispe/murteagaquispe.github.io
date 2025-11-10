@@ -13,7 +13,7 @@ show_downloads: true
        style="width: 200px; height: 200px; object-fit: cover;" />
 
   <div>
-    I hold a PhD in Political Science from Harvard University. Currently, I am a postdoctoral fellow at the Kellogg Institute for International Studies. My research examines the political economy of development strategies in Latin America with a focus on agricultural policies and rural politics. In my book project, I explain why governments adopt pro-agricultural development strategies—or what I call <em>agrarian developmentalism</em>. 
+I am a Postdoctoral Visiting Fellow at the Kellogg Institute for International Studies. I received my PhD in Political Science from Harvard University in 2025. My research examines the political economy of development strategies in Latin America with a focus on agricultural policies and rural politics. In my book project, I explain why governments adopt pro-agricultural development strategies—or what I call <em>agrarian developmentalism</em>. 
     <br><br>
     <div style="margin-top: 10px;">
       <span style="margin-right: 20px;">
@@ -29,7 +29,7 @@ show_downloads: true
   </div>
 </div>
 
-## Working Papers
+## Under Review and Work in Progress
 “Agrarian Developmentalism: The Politics of Development Strategies in Latin America,” under review.
   - Awarded Best Graduate Student Paper by the Latin American Political Economy Network REPAL.
 
