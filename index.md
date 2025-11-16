@@ -8,7 +8,7 @@ show_downloads: true
 
 ## About
 <div style="display: flex; padding-left: 0; display: flex; gap: 20px; margin-top: 10px;">
-  <img src="assets/img/UrteagaQuispe_vf.jpg" 
+  <img src="assets/img/UrteagaQuispe_vf.jpeg" 
        alt="Madai Urteaga headshot" 
        style="width: 200px; height: 200px; object-fit: cover;" />
 
