@@ -10,7 +10,7 @@ show_downloads: true
 <div style="display: flex; padding-left: 0; display: flex; gap: 20px; margin-top: 10px;">
   <img src="assets/img/UrteagaQuispe_vf.jpeg" 
        alt="Madai Urteaga headshot" 
-       style="width: 145px; height: 200px; object-fit: cover;" />
+       style="width: 150px; height: 200px; object-fit: cover;" />
 
   <div>
 I am a Postdoctoral Visiting Fellow at the Kellogg Institute for International Studies. I received my PhD in Political Science from Harvard University in 2025. My research examines the political economy of development strategies in Latin America with a focus on agricultural policies and rural politics. In my book project, I explain why governments adopt pro-agricultural development strategies—or what I call <em>agrarian developmentalism</em>. 
