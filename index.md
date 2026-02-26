@@ -33,8 +33,10 @@ I am a Postdoctoral Visiting Fellow at the Kellogg Institute for International S
 “Agrarian Developmentalism: The Politics of Development Strategies in Latin America,” under review.
   - Awarded Best Graduate Student Paper by the Latin American Political Economy Network REPAL.
 
+"Scarcity-Induced Salience: Trade Shocks and Agricultural Promotion," working paper.
+
 “Judging Property: Judicial Independence, Elite Influence, and Public Land Allocation in Colombia,”  
-  with [Isabel Güiza-Gómez](https://isabelguizag.com/).
+  with [Isabel Güiza-Gómez](https://isabelguizag.com/), working paper.
   - Honorable Mention for Best Paper by the Latin American Political Economy Network REPAL.
 
 ---
