@@ -55,6 +55,6 @@ Welcome! I am a Postdoctoral Visiting Fellow at the Kellogg Institute for Intern
 ---
 
 ## Book Chapters
-“El Contexto Internacional y la Reforma Agraria en el Per\'{u},” in Lerner, A. and Vergara, A. (eds.), _Per\'{u} Global 2_, Lima: Planeta, forthcoming.
+“El Contexto Internacional y la Reforma Agraria en el Perú,” in Lerner, A. and Vergara, A. (eds.), _Perú Global 2_, Lima: Planeta, forthcoming.
 
 “State Capacity and Social Forces: Exploring a Complex Relation,” in Grompone, R. (ed.), _Uncertainties and Distances: The Controversial Role of the State in Peru_, Lima: Instituto de Estudios Peruanos, 2015 (with Eduardo Dargent)(in Spanish).
