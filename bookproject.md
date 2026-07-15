@@ -20,7 +20,7 @@ My book project argues that this variation is explained by the structure of rura
   <div>
 I carry out a comparative historical analysis of two countries with divergent development strategies crafted during World War II: Colombia and Chile. In Colombia, the government supported agriculture generously through price supports, tariff protection, and public spending. By contrast, the Chilean government sidelined agriculture to promote industrialization. Drawing on original data collected over twelve months of fieldwork from a range of historical sources, and qualitative and quantitative methods, I show how the explanatory variables shaped agricultural policy regimes, and demonstrate that alternative approaches focusing on power of rural producers have limited leverage.
 
-My dissertation, on which the book project is based, was awarded the Robert Toppan Prize for best dissertation on any subject of Political Science by Harvard's Government Department.
+My dissertation, on which the book project is based, was awarded the Robert Noxon Toppan Prize for best dissertation on any subject of Political Science by Harvard's Government Department.
   </div>
 </div>
 
