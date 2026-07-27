@@ -20,7 +20,7 @@ Welcome! I am a Postdoctoral Visiting Fellow at the Kellogg Institute for Intern
         <i class="fas fa-envelope"></i> <a href="mailto:murteaga@nd.edu">Email</a>
       </span>
       <span style="margin-right: 20px;">
-        <i class="fas fa-flask"></i> <a href="https://scholar.google.com/citations?user=yd1nJHIAAAAJ&hl=en&authuser=1">Google Scholar</a>
+        <i class="fas fa-flask"></i> <a href="https://scholar.google.com/citations?user=j2jYYBgAAAAJ&hl=en&authuser=1">Google Scholar</a>
       </span>
       <span>
         <i class="fab fa-orcid"></i> <a href="https://orcid.org/0009-0006-0990-9001">ORCID</a>
