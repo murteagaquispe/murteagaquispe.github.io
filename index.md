@@ -36,7 +36,7 @@ Welcome! I am a Postdoctoral Visiting Fellow at the Kellogg Institute for Intern
 "Scarcity-Induced Salience: Trade Shocks and Agricultural Promotion," working paper.
 
 “Judging Property: Judicial Independence, Elite Influence, and Land Property Rights,”  
-  with [Isabel Güiza-Gómez](https://isabelguizag.com/), under review.
+  with [Isabel Güiza-Gómez](https://isabelguizag.com/), R&R at _World Development_.
   - Honorable Mention for Best Paper by the Latin American Political Economy Network REPAL.
 
 ---
