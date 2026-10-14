@@ -37,7 +37,7 @@ Welcome! I am a Postdoctoral Visiting Fellow at the Kellogg Institute for Intern
   with [Isabel Güiza-Gómez](https://isabelguizag.com/), R&R at _World Development_.
   - Honorable Mention for Best Paper by the Latin American Political Economy Network REPAL.
 
-“Scarcity-Induced Salience: Trade Shocks and Agricultural Promotion," working paper.
+“Scarcity-Induced Salience: Trade Shocks and Agricultural Promotion," [working paper](https://www.dropbox.com/scl/fi/5zun11rj30kmdgzrt8mxq/TradeShocksAgriculture_abstract.pdf?rlkey=ak5nb7pdjmmr5lj5e3i9hridl&st=bn5xsb3d&dl=0).
 
 “Beyond Control: Why States Create Organizations," with [Julia Smith Coyoli](https://juliacoyoli.com/), working paper.
 
