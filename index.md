@@ -12,11 +12,9 @@ show_downloads: true
        alt="Madai Urteaga headshot" 
        style="width: 170px; height: 200px; object-fit: cover;" />
 
-  <div>
-Welcome! I am a Postdoctoral Visiting Fellow at the Kellogg Institute for International Studies. I received my PhD in Political Science from Harvard University in 2025. Starting in August 2027, I will be an Assistant Professor of Political Science at the School of Government of the Pontificia Universidad Católica de Chile. 
+<p>Welcome! I am a Postdoctoral Visiting Fellow at the Kellogg Institute for International Studies. I received my PhD in Political Science from Harvard University in 2025. Starting in August 2027, I will be an Assistant Professor of Political Science at the School of Government of the Pontificia Universidad Católica de Chile.</p>
 
-My research examines the political economy of development strategies in Latin America, with a focus on agricultural policies and rural politics. In my book project, I explain why governments adopt pro-agricultural development strategies—or what I call <em>agrarian developmentalism</em>. The project is based on my dissertation, which received Harvard Government's Department <a href="https://prizes.fas.harvard.edu/prize-descriptions#R">Robert Noxon Toppan prize</a>.
-    <br><br>
+<p>My research examines the political economy of development strategies in Latin America, with a focus on agricultural policies and rural politics. In my book project, I explain why governments adopt pro-agricultural development strategies—or what I call <em>agrarian developmentalism</em>. The project is based on my dissertation, which received the Harvard Department of Government's <a href="https://prizes.fas.harvard.edu/prize-descriptions#R">Robert Noxon Toppan Prize</a>.</p>
     <div style="margin-top: 10px;">
       <span style="margin-right: 20px;">
         <i class="fas fa-envelope"></i> <a href="mailto:murteaga@nd.edu">Email</a>
